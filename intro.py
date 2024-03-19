@@ -44,7 +44,7 @@ model = genai.GenerativeModel(model_name="gemini-pro", generation_config=generat
 # Navbar
 st.set_page_config(
     page_title="Intro Generator",
-    page_icon="👨‍🎓",
+    page_icon="🎓",
     layout="centered",
     initial_sidebar_state="collapsed",
 )
